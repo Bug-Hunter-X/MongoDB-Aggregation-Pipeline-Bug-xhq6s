@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines that leads to unexpected results.  The bug involves incorrect use of grouping, sorting, and limiting operations, resulting in inaccurate data aggregation. The solution focuses on efficient indexing and proper pipeline ordering to ensure correct results.
